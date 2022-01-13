@@ -1,0 +1,10 @@
+{
+    "author": "",
+    "citation": "",
+    "container": "genepattern/genepattern-notebook:21.12",
+    "description": "Perform GSEA on RNA-seq or microarray data",
+    "image": "Legacy",
+    "name": "Gene Set Enrichment Analysis (GSEA)",
+    "quality": "",
+    "tags": ""
+}
